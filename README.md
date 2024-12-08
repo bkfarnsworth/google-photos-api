@@ -2,7 +2,7 @@
 
 Simple package to automate workflows in google photos.
 
-NOT CURRENTLY WORKING. INTERNAL GOOGLE APIS CHANGED SINCE I LAST USED IT.  
+<b>NOT CURRENTLY WORKING. INTERNAL GOOGLE APIS CHANGED SINCE I LAST USED IT</b>
 
 To use:
 1. Clone the git repo. Make sure you have node and npm installed.  See package.json engines field for required versions.
